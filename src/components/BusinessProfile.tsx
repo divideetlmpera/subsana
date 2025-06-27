@@ -1,0 +1,9 @@
+export default function BusinessProfile() {
+    return (
+      <>
+        <h2 className="text-xl font-bold text-gray-900 mb-4">Экран бизнеса</h2>
+        <p className="text-gray-600">Скоро здесь появится фунционал настройки подписок</p>
+      </>
+    );
+  }
+  
